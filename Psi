@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Psicanálise Online</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #2b1e16;
+      color: #f5e6d3;
+    }
+    header {
+      padding: 40px 20px;
+      text-align: center;
+      background: linear-gradient(180deg, #3a2418, #2b1e16);
+    }
+    header h1 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: rgba(0,0,0,0.35);
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+    h2 {
+      color: #e0c08f;
+      margin-bottom: 15px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .cta {
+      text-align: center;
+      padding: 50px 20px;
+      background: #3a2418;
+    }
+    .cta h2 {
+      font-size: 2rem;
+    }
+    .cta p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      background: #1f140e;
+      color: #c9b39a;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Você sente que sua vida está se repetindo?</h1>
+  <p>Os mesmos problemas, as mesmas decisões, os mesmos resultados. Isso não é azar — é a repetição inconsciente atuando na sua vida.</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>Psicanálise Online</h2>
+    <p>A psicanálise é um espaço de escuta profunda, onde você pode compreender os padrões inconscientes que influenciam suas escolhas, emoções e relacionamentos.</p>
+  </div>
+
+  <div class="card">
+    <h2>Para quem é indicada?</h2>
+    <ul>
+      <li>Ansiedade e angústia constantes</li>
+      <li>Repetição de padrões emocionais e relacionais</li>
+      <li>Dificuldade em tomar decisões</li>
+      <li>Sensação de vazio ou falta de sentido</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Atendimento Online</h2>
+    <p>Comodidade, sigilo e acolhimento, onde você estiver. As sessões acontecem em um ambiente seguro e reservado.</p>
+  </div>
+</section>
+
+<div class="cta">
+  <h2>Entre em contato e descubra como posso te ajudar</h2>
+  <p>Agende seu primeiro atendimento e dê o primeiro passo para a mudança.</p>
+  <a href="https://wa.me/5511982059513" target="_blank" style="display:inline-block;margin-top:25px;padding:16px 28px;background:#25D366;color:#ffffff;text-decoration:none;font-size:1.1rem;border-radius:40px;font-weight:600;box-shadow:0 8px 20px rgba(0,0,0,0.4);">Falar comigo no WhatsApp</a>
+</div>
+
+<footer>
+  <p>Psicanálise • Atendimento Online</p>
+</footer>
+
+</body>
+</html>
